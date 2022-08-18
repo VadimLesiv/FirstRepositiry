@@ -5,4 +5,3 @@ asdf
 Line from user1
 Line from user 2 - lesson about rebase
 Line from user 1 - lesson about rebase - 2nd attempt
-
