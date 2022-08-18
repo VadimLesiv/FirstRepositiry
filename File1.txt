@@ -4,5 +4,6 @@ Good bue!
 asdf/
 Line from user1/
 Line fron user1 - lesson about rebase
+Line fron user1 - lesson about rebase - 2nd attempt
 
 
